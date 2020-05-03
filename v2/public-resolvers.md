@@ -1,1 +1,1 @@
-#_public-resolvers
+#-public-resolvers
